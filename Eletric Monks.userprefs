@@ -1,12 +1,16 @@
-﻿<Properties StartupItem="AgentsGen1/AgentsGen1.csproj">
+﻿<Properties StartupItem="AgentsGen3/AgentsGen3.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AgentsGen1/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AgentsGenX/Program.cs">
     <Files>
-      <File FileName="AgentsGen1/Program.cs" Line="50" Column="6" />
+      <File FileName="AgentsGenX/Program.cs" Line="5" Column="2" />
+      <File FileName="AgentsGen2/Program.cs" Line="175" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/home/andre/projects/em/electric_monks.git/trunk/AgentsGen2/Program.cs" line="161" column="18" />
+      <Breakpoint file="/home/andre/projects/em/electric_monks.git/trunk/AgentsGen3/Program.cs" line="160" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

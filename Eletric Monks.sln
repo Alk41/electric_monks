@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgentsGen3", "AgentsGen3\Ag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgentsGen4", "AgentsGen4\AgentsGen4.csproj", "{8320651C-A740-4C81-B0D9-C483A71EB499}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgentsGenX", "AgentsGenX\AgentsGenX.csproj", "{C6E2D184-26F3-4A9E-82CA-5A3E25CE19FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -27,6 +29,10 @@ Global
 		{8320651C-A740-4C81-B0D9-C483A71EB499}.Debug|x86.Build.0 = Debug|x86
 		{8320651C-A740-4C81-B0D9-C483A71EB499}.Release|x86.ActiveCfg = Release|x86
 		{8320651C-A740-4C81-B0D9-C483A71EB499}.Release|x86.Build.0 = Release|x86
+		{C6E2D184-26F3-4A9E-82CA-5A3E25CE19FF}.Debug|x86.ActiveCfg = Debug|x86
+		{C6E2D184-26F3-4A9E-82CA-5A3E25CE19FF}.Debug|x86.Build.0 = Debug|x86
+		{C6E2D184-26F3-4A9E-82CA-5A3E25CE19FF}.Release|x86.ActiveCfg = Release|x86
+		{C6E2D184-26F3-4A9E-82CA-5A3E25CE19FF}.Release|x86.Build.0 = Release|x86
 		{CCCC7152-BBF1-4B43-9355-ACE5736FCC9F}.Debug|x86.ActiveCfg = Debug|x86
 		{CCCC7152-BBF1-4B43-9355-ACE5736FCC9F}.Debug|x86.Build.0 = Debug|x86
 		{CCCC7152-BBF1-4B43-9355-ACE5736FCC9F}.Release|x86.ActiveCfg = Release|x86

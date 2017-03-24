@@ -3,3 +3,8 @@
 /home/andre/temp/acf/AgentsFormula4096/bin/Debug/Agents4096Formula.exe
 /home/andre/temp/acf/AgentsFormula4096/obj/x86/Debug/Agents4096Formula.exe
 /home/andre/temp/acf/AgentsFormula4096/obj/x86/Debug/Agents4096Formula.exe.mdb
+/home/andre/projects/em/electric_monks.git/trunk/AgentsGen2/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/andre/projects/em/electric_monks.git/trunk/AgentsGen2/bin/Debug/Agents4096Formula.exe.mdb
+/home/andre/projects/em/electric_monks.git/trunk/AgentsGen2/bin/Debug/Agents4096Formula.exe
+/home/andre/projects/em/electric_monks.git/trunk/AgentsGen2/obj/x86/Debug/Agents4096Formula.exe
+/home/andre/projects/em/electric_monks.git/trunk/AgentsGen2/obj/x86/Debug/Agents4096Formula.exe.mdb

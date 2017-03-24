@@ -45,95 +45,99 @@ namespace AgentsGen2
 	{
 		public static void Main( string[] args )
 		{
-			var genPrev = new List<AgentMap>();
-			genPrev.Add( new AgentMap( 3 ) );
-			genPrev.Add( new AgentMap( 6 ) );
-			genPrev.Add( new AgentMap( 9 ) );
-			genPrev.Add( new AgentMap( 12 ) );
-			genPrev.Add( new AgentMap( 18 ) );
-			genPrev.Add( new AgentMap( 23 ) );
-			genPrev.Add( new AgentMap( 24 ) );
-			genPrev.Add( new AgentMap( 29 ) );
-			genPrev.Add( new AgentMap( 33 ) );
-			genPrev.Add( new AgentMap( 36 ) );
-			genPrev.Add( new AgentMap( 43 ) );
-			genPrev.Add( new AgentMap( 46 ) );
-			genPrev.Add( new AgentMap( 48 ) );
-			genPrev.Add( new AgentMap( 53 ) );
-			genPrev.Add( new AgentMap( 58 ) );
-			genPrev.Add( new AgentMap( 63 ) );
-			genPrev.Add( new AgentMap( 66 ) );
-			genPrev.Add( new AgentMap( 71 ) );
-			genPrev.Add( new AgentMap( 72 ) );
-			genPrev.Add( new AgentMap( 77 ) );
-			genPrev.Add( new AgentMap( 83 ) );
-			genPrev.Add( new AgentMap( 86 ) );
-			genPrev.Add( new AgentMap( 89 ) );
-			genPrev.Add( new AgentMap( 92 ) );
-			genPrev.Add( new AgentMap( 96 ) );
-			genPrev.Add( new AgentMap( 101 ) );
-			genPrev.Add( new AgentMap( 106 ) );
-			genPrev.Add( new AgentMap( 111 ) );
-			genPrev.Add( new AgentMap( 113 ) );
-			genPrev.Add( new AgentMap( 116 ) );
-			genPrev.Add( new AgentMap( 123 ) );
-			genPrev.Add( new AgentMap( 126 ) );
-			genPrev.Add( new AgentMap( 129 ) );
-			genPrev.Add( new AgentMap( 132 ) );
-			genPrev.Add( new AgentMap( 139 ) );
-			genPrev.Add( new AgentMap( 142 ) );
-			genPrev.Add( new AgentMap( 144 ) );
-			genPrev.Add( new AgentMap( 149 ) );
-			genPrev.Add( new AgentMap( 154 ) );
-			genPrev.Add( new AgentMap( 159 ) );
-			genPrev.Add( new AgentMap( 163 ) );
-			genPrev.Add( new AgentMap( 166 ) );
-			genPrev.Add( new AgentMap( 169 ) );
-			genPrev.Add( new AgentMap( 172 ) );
-			genPrev.Add( new AgentMap( 178 ) );
-			genPrev.Add( new AgentMap( 183 ) );
-			genPrev.Add( new AgentMap( 184 ) );
-			genPrev.Add( new AgentMap( 189 ) );
-			genPrev.Add( new AgentMap( 192 ) );
-			genPrev.Add( new AgentMap( 197 ) );
-			genPrev.Add( new AgentMap( 202 ) );
-			genPrev.Add( new AgentMap( 207 ) );
-			genPrev.Add( new AgentMap( 209 ) );
-			genPrev.Add( new AgentMap( 212 ) );
-			genPrev.Add( new AgentMap( 219 ) );
-			genPrev.Add( new AgentMap( 222 ) );
-			genPrev.Add( new AgentMap( 226 ) );
-			genPrev.Add( new AgentMap( 231 ) );
-			genPrev.Add( new AgentMap( 232 ) );
-			genPrev.Add( new AgentMap( 237 ) );
-			genPrev.Add( new AgentMap( 243 ) );
-			genPrev.Add( new AgentMap( 246 ) );
-			genPrev.Add( new AgentMap( 249 ) );
-			genPrev.Add( new AgentMap( 252 ) );
+			var gen1 = new List<AgentMap>();
+			gen1.Add( new AgentMap( 3 ) );
+			gen1.Add( new AgentMap( 6 ) );
+			gen1.Add( new AgentMap( 9 ) );
+			gen1.Add( new AgentMap( 12 ) );
+			gen1.Add( new AgentMap( 18 ) );
+			gen1.Add( new AgentMap( 23 ) );
+			gen1.Add( new AgentMap( 24 ) );
+			gen1.Add( new AgentMap( 29 ) );
+			gen1.Add( new AgentMap( 33 ) );
+			gen1.Add( new AgentMap( 36 ) );
+			gen1.Add( new AgentMap( 43 ) );
+			gen1.Add( new AgentMap( 46 ) );
+			gen1.Add( new AgentMap( 48 ) );
+			gen1.Add( new AgentMap( 53 ) );
+			gen1.Add( new AgentMap( 58 ) );
+			gen1.Add( new AgentMap( 63 ) );
+			gen1.Add( new AgentMap( 66 ) );
+			gen1.Add( new AgentMap( 71 ) );
+			gen1.Add( new AgentMap( 72 ) );
+			gen1.Add( new AgentMap( 77 ) );
+			gen1.Add( new AgentMap( 83 ) );
+			gen1.Add( new AgentMap( 86 ) );
+			gen1.Add( new AgentMap( 89 ) );
+			gen1.Add( new AgentMap( 92 ) );
+			gen1.Add( new AgentMap( 96 ) );
+			gen1.Add( new AgentMap( 101 ) );
+			gen1.Add( new AgentMap( 106 ) );
+			gen1.Add( new AgentMap( 111 ) );
+			gen1.Add( new AgentMap( 113 ) );
+			gen1.Add( new AgentMap( 116 ) );
+			gen1.Add( new AgentMap( 123 ) );
+			gen1.Add( new AgentMap( 126 ) );
+			gen1.Add( new AgentMap( 129 ) );
+			gen1.Add( new AgentMap( 132 ) );
+			gen1.Add( new AgentMap( 139 ) );
+			gen1.Add( new AgentMap( 142 ) );
+			gen1.Add( new AgentMap( 144 ) );
+			gen1.Add( new AgentMap( 149 ) );
+			gen1.Add( new AgentMap( 154 ) );
+			gen1.Add( new AgentMap( 159 ) );
+			gen1.Add( new AgentMap( 163 ) );
+			gen1.Add( new AgentMap( 166 ) );
+			gen1.Add( new AgentMap( 169 ) );
+			gen1.Add( new AgentMap( 172 ) );
+			gen1.Add( new AgentMap( 178 ) );
+			gen1.Add( new AgentMap( 183 ) );
+			gen1.Add( new AgentMap( 184 ) );
+			gen1.Add( new AgentMap( 189 ) );
+			gen1.Add( new AgentMap( 192 ) );
+			gen1.Add( new AgentMap( 197 ) );
+			gen1.Add( new AgentMap( 202 ) );
+			gen1.Add( new AgentMap( 207 ) );
+			gen1.Add( new AgentMap( 209 ) );
+			gen1.Add( new AgentMap( 212 ) );
+			gen1.Add( new AgentMap( 219 ) );
+			gen1.Add( new AgentMap( 222 ) );
+			gen1.Add( new AgentMap( 226 ) );
+			gen1.Add( new AgentMap( 231 ) );
+			gen1.Add( new AgentMap( 232 ) );
+			gen1.Add( new AgentMap( 237 ) );
+			gen1.Add( new AgentMap( 243 ) );
+			gen1.Add( new AgentMap( 246 ) );
+			gen1.Add( new AgentMap( 249 ) );
+			gen1.Add( new AgentMap( 252 ) );
 
-			var genAll = new List<string>();
+			var gen2 = new List<string>();
 
-			foreach ( var a in genPrev )
+			// Imprime os agentes iniciais, usando a notação de "novos"
+
+			foreach ( var a in gen1 )
 			{
 				var t = "";
 				foreach ( var item in a.Map )
 					t += item.Value;
 
-				genAll.Add( t );
-				Console.WriteLine( "0 " + a.Number + " " + t + " *" );
+				gen2.Add( t );
+				Console.WriteLine( "0 " + a.Number + " " + a.Number + ":" + t + " *" );
 			}
 			Console.WriteLine();
 
+			var onezero = new int[]{ 1, 0 };
+
 			for ( int gen = 0 ; gen < 4 ; gen++ )
 			{
-				foreach ( var a1 in genPrev )
+				foreach ( var a1 in gen1 )
 				{
-					foreach ( var a2 in genPrev )
+					foreach ( var a2 in gen1 )
 					{
 						var resp = "";
-						for ( int p = 1 ; p >= 0 ; p-- )
+						foreach ( var p in onezero )
 						{
-							for ( int q = 1 ; q >= 0 ; q-- )
+							foreach ( var q in onezero )
 							{
 								var i = "" + p + q;  // I
 								var y = a2.Map[ i ]; // Fy(I)
@@ -143,26 +147,27 @@ namespace AgentsGen2
 							}
 						}
 
-						if ( !genAll.Contains( resp ) )
+						if ( !gen2.Contains( resp ) )
 						{
-							Console.WriteLine( a1.Number + " " + a2.Number + " " + resp + " *" );
-							genAll.Add( resp );
+							var ag = new AgentMap( resp );
+							Console.WriteLine( a1.Number + " " + a2.Number + " " + ag.Number + ":" + resp + " *" );
+							gen2.Add( resp );
 						}
 					}
 				}
 
-				Console.WriteLine( "gen " + gen + " agents " + genAll.Count );
+				Console.WriteLine( "total distinct agents " + gen2.Count );
 
-				genPrev.Clear();
-				foreach ( var k in genAll )
-					genPrev.Add( new AgentMap( k ) );
+				gen1.Clear();
+				foreach ( var k in gen2 )
+					gen1.Add( new AgentMap( k ) );
 			}
 
 			for ( int i = 0 ; i < 256 ; i++ )
 			{
 				var a = new AgentMap( i );
 				var s = a.ToString8();
-				if ( !genAll.Contains( s ) )
+				if ( !gen2.Contains( s ) )
 					Console.WriteLine( "FALTANDO " + i + " " + s );
 			}
 		}
