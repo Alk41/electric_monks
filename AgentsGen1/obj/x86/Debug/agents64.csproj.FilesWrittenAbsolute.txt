@@ -1,0 +1,5 @@
+/home/andre/temp/acf/agents64/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/andre/temp/acf/agents64/bin/Debug/agents64.exe.mdb
+/home/andre/temp/acf/agents64/bin/Debug/agents64.exe
+/home/andre/temp/acf/agents64/obj/x86/Debug/agents64.exe
+/home/andre/temp/acf/agents64/obj/x86/Debug/agents64.exe.mdb

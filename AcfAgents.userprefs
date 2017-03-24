@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="AgentsFormula4096/AgentsGen2.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AgensF4/Program.cs">
+    <Files>
+      <File FileName="AgentsManual64/Program.cs" Line="4" Column="21" />
+      <File FileName="AgentsFormula4096/Program.cs" Line="4" Column="21" />
+      <File FileName="AgentsFormula262144/Program.cs" Line="4" Column="21" />
+      <File FileName="AgensF4/Program.cs" Line="4" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/andre/temp/acf/Agents4096/Program.cs" line="40" column="1" />
+      <Breakpoint file="/home/andre/temp/acf/Agents4096/Program.cs" line="15" column="21" />
+      <Breakpoint file="/home/andre/temp/acf/AgentsManual64/Program.cs" line="63" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

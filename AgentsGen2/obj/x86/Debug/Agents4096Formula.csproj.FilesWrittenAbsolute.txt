@@ -1,0 +1,5 @@
+/home/andre/temp/acf/Agents4096Formula/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/andre/temp/acf/Agents4096Formula/bin/Debug/Agents4096Formula.exe.mdb
+/home/andre/temp/acf/Agents4096Formula/bin/Debug/Agents4096Formula.exe
+/home/andre/temp/acf/Agents4096Formula/obj/x86/Debug/Agents4096Formula.exe
+/home/andre/temp/acf/Agents4096Formula/obj/x86/Debug/Agents4096Formula.exe.mdb

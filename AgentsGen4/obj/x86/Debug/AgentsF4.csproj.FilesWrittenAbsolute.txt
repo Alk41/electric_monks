@@ -1,0 +1,5 @@
+/home/andre/temp/acf/AgensF4/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/andre/temp/acf/AgensF4/bin/Debug/AgensF4.exe.mdb
+/home/andre/temp/acf/AgensF4/bin/Debug/AgensF4.exe
+/home/andre/temp/acf/AgensF4/obj/x86/Debug/AgensF4.exe
+/home/andre/temp/acf/AgensF4/obj/x86/Debug/AgensF4.exe.mdb

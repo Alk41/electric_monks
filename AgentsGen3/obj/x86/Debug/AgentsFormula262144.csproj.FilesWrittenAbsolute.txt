@@ -1,0 +1,5 @@
+/home/andre/temp/acf/AgentsFormula262144/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/andre/temp/acf/AgentsFormula262144/bin/Debug/Agents262144.exe.mdb
+/home/andre/temp/acf/AgentsFormula262144/bin/Debug/Agents262144.exe
+/home/andre/temp/acf/AgentsFormula262144/obj/x86/Debug/Agents262144.exe
+/home/andre/temp/acf/AgentsFormula262144/obj/x86/Debug/Agents262144.exe.mdb
