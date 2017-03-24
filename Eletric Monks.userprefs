@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="AgentsGen3/AgentsGen3.csproj">
+﻿<Properties StartupItem="AgentsGenX/AgentsGenX.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="AgentsGenX/Program.cs">
     <Files>
